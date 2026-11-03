@@ -218,3 +218,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project
+.DS_Store
+*.keras
+*.h5
+kt/
+teste/
+images/
+*.zip
+annotations.csv
+predicoes.csv
+__MACOSX/
